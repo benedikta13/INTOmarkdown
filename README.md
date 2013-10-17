@@ -1,25 +1,50 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+* Benedikt Valur Árnason
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Eftir að hafa náð í virtual box og ubuntu 13.04 og ekki náð að setja það upp.  Náði ég í VMWare Player og setti 
+Ubuntu upp þar.  Það gekk fínt. Hér er ![mynd](/home/benedikta13/Pictures/Capture6.jpg)
+Ef það ekki að opna þessa mynd þá er hér [imgur][4] linkur.
+[4]: http://imgur.com/giGFbj6 "imgur"
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Það gekk vel að sækja þessi tól.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Ég fór eftir leiðbeiningunum í verkefnalýsingunni.  Breytingin sem ég gerði á .cpp skránni var sú að ég bætti
+við cout skipun efst í main() fallinu.  Hún prentaði út nafnið mitt og ru notendanafn.  Ég lenti svo ekki í
+neinum vandamálum fyrr en ég átti að gera "git push origin master".  Þá þurfti ég að gera "git config --global user.email "benedikta13@ru.is"".
+Það var held ég vegna þess að tölvan hélt að mailið væri benedikta13@ubuntu.  En þetta virkaði og ég gat klárað
+þennan lið annars mjög auðveldlega.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Hér er linkurinn á verkefnið inná [github][1]
+[1]: https://github.com/benedikta13/INTOPrufa "github"
+
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+<table>
+  <tr>
+    <th>Name</th><th>License</th><th>SourceCode</th>
+  </tr>
+  <tr>
+    <td>LibreOffice Writer</td><td>GNU Lesser General Public License</td><td>[Clone: $ git clone git://anongit.freedesktop.org/libreoffice/core]</td>
+  </tr>
+  <tr>
+    <td>EOG image viewer</td><td>GNU General Public License</td><td>[launcpad][2]</td>
+  </tr>
+  <tr>
+    <td>Shotwell Photo Manager</td><td>GNU LGPL v2.1</td><td>[yorba.org][3]</td> 
+  </tr>
+</table>
+
+[2]: https://code.launchpad.net/eog "launchpad"
+[3]: http://www.yorba.org/download/geary/0.4/geary-0.4.0.tar.xz "yorba"
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Hér þurfti ekkert að gera
