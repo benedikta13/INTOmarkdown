@@ -35,15 +35,14 @@ Hér er linkurinn á verkefnið inná [github][1]
     <td>LibreOffice Writer</td><td>GNU Lesser General Public License</td><td>[Clone: $ git clone git://anongit.freedesktop.org/libreoffice/core]</td>
   </tr>
   <tr>
-    <td>EOG image viewer</td><td>GNU General Public License</td><td>[launcpad][2]</td>
+    <td>EOG image viewer</td><td>GNU General Public License</td><td>[https://code.launchpad.net/eog]</td>
   </tr>
   <tr>
-    <td>Shotwell Photo Manager</td><td>GNU LGPL v2.1</td><td>[yorba.org][3]</td> 
+    <td>Shotwell Photo Manager</td><td>GNU LGPL v2.1</td><td>[http://www.yorba.org/download/geary/0.4/geary-0.4.0.tar.xz]</td> 
   </tr>
 </table>
 
-[2]: https://code.launchpad.net/eog "launchpad"
-[3]: http://www.yorba.org/download/geary/0.4/geary-0.4.0.tar.xz "yorba"
+
 
 ## 5. Unnið með Git (2. hluti)
 
