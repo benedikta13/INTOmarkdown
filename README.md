@@ -5,7 +5,7 @@
 ## 1. Linux uppsetning
 
 Eftir að hafa náð í virtual box og ubuntu 13.04 og ekki náð að setja það upp.  Náði ég í VMWare Player og setti 
-Ubuntu upp þar.  Það gekk fínt. Hér er mynd![Alt text](/home/benedikta13/INTOmarkdown/Capture6.jpg)
+Ubuntu upp þar.  Það gekk fínt. Hér er mynd![Alt text](Capture6.jpg)
 Ef það ekki að opna þessa mynd þá er hér [imgur][4] linkur.
 [4]: http://imgur.com/giGFbj6 "imgur"
 
